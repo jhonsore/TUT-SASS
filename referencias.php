@@ -61,13 +61,13 @@
                     	
                         <h1>Referências</h1><hr>
                         <a href="http://sass-lang.com/" target="_blank">Site oficial</a><br><hr>
-                        
+                        <a href="http://sass-lang.com/documentation/file.SASS_REFERENCE.html" target="_blank">Documentação</a><br><hr>
                         <a href="http://tableless.com.br/sass-um-outro-metodo-de-escrever-css/" target="_blank">Tableless</a><br><hr>
                         <a href="http://www.carlosstenzel.com/TI/o-guia-sass-para-iniciante/" target="_blank">carlosstenzel</a><br><hr>
                         <a href="http://frontendparaleigos.cc/pre-processadores-de-css-porque-nao-usar/" target="_blank">frontendparaleigos</a><br><hr>
                         <a href="http://sassmeister.com/" target="_blank">Compilador online SASS</a><br><hr>
                         <a href="http://leafo.net/scssphp/" target="_blank">Compilador SASS em php</a><br><hr>
-                        
+                        <a href="http://thesassway.com/intermediate/using-object-oriented-css-with-sass" target="_blank">CSS orientado a objeto com SASS</a><br><hr>
                         
                     </div>                   
                    <!-- /////////////////////////////////// -->
